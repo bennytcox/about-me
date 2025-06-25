@@ -15,7 +15,7 @@ B.Sc. in Data Science & Mathematics
 📚 Minors in Statistics and Mathematics
 
 🛰️ **Software Engineering Intern**  
-South Dakota Space Grant Consortium
+South Dakota Space Grant Consortium in partnership with USGS/KBR. inc
 
 ---
 
