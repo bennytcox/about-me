@@ -9,7 +9,7 @@
 
 ## 👋 Hi there, I'm **Benjamin Cox** (Benny/Ben)
 
-**Master's Student
+**Master's Student**
 University of Minnesota - Twin Cities
 MPH in Public Health Data Science
 
