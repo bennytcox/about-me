@@ -9,6 +9,10 @@
 
 ## 👋 Hi there, I'm **Benjamin Cox** (Benny/Ben)
 
+**Master's Student
+University of Minnesota - Twin Cities
+MPH in Public Health Data Science
+
 🎓 **Recent Graduate**  
 South Dakota State University (SDSU)  
 B.Sc. in Data Science & Mathematics  
