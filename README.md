@@ -9,52 +9,76 @@
 
 ## 👋 Hi there, I'm **Benjamin Cox** (Benny/Ben)
 
-**Master's Student**
-University of Minnesota - Twin Cities
-MPH in Public Health Data Science
+**Master's Student**  
+University of Minnesota - Twin Cities  
+MPH in Public Health Data Science | Expected Graduation: May 2027
 
 🎓 **Recent Graduate**  
 South Dakota State University (SDSU)  
-B.Sc. in Data Science & Mathematics  
-📚 Minors in Statistics and Mathematics
+B.Sc. in Data Science & Mathematics | May 2025  
+📚 Minors in Statistics and Mathematics | GPA: 3.34/4.0
+
+🏆 **2025 Schultz-Werth Award Winner**  
+Recognized for independent research on the statistical analysis of agricultural pesticide effects on cancer incidence in the Midwest
 
 🛰️ **Software Engineering Intern**  
-South Dakota Space Grant Consortium in partnership with USGS/KBR. inc
+NASA South Dakota Space Grant Consortium / KBR Inc. | USGS EROS CalVal Center of Excellence (ECCOE)
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-- **Languages**: Python, R, SQL, HTML, C/C++
-- **Tools & Libraries**: pandas, matplotlib, seaborn, NumPy, ggplot2
-- **Databases**: PostgreSQL, SQLite
-- **Others**: Git, GitHub, Jupyter, LaTeX
+- **Languages**: Python, R, SQL, HTML, C/C++/C#
+- **Data Analysis**: SAS, Excel, pandas, tidyverse, ggplot2, NumPy
+- **Visualization**: ggplot2, matplotlib, seaborn
+- **Databases**: PostgreSQL, MySQL, SQLite
+- **Specialized**: Geospatial Data Analysis, LLM/AI, Bayesian Statistics
+- **Tools**: Git, GitHub, Jupyter, LaTeX, Microsoft Azure
 
 ---
 
 ### 🧠 What I'm About
 
-Through rigorous coursework and a hands-on internship at the South Dakota Space Grant Consortium / KBR Inc, I've developed a strong foundation in data analysis, database design, and software engineering. I enjoy writing code, asking meaningful questions from data, and communicating insights effectively.
+Through rigorous graduate and undergraduate coursework, independent research, and hands-on experience at NASA/USGS EROS, I've developed expertise in biostatistics, data science, and software engineering. I'm passionate about using data to address real-world public health challenges and making complex analyses accessible through clear communication.
 
 🔍 I'm particularly passionate about:
-- Using data driven insights to inform public health 📊  
-- Scientific research and simulation 🧪  
-- Making space and science more accessible 🚀
+- Using data-driven insights to inform public health policy and research 📊  
+- Biostatistical analysis and epidemiological research 🧪  
+- Environmental health and agricultural impact studies 🌾
+- Remote sensing and geospatial analysis 🛰️
+- Making science and data more accessible 🚀
+
+---
+
+### 🔬 Research Highlights
+
+**Undergraduate Senior Capstone Research** (December 2024 - May 2025)
+- Designed independent research project using Bayesian regression to study agricultural pesticide impact on Midwest cancer incidence
+- Analyzed 30+ years of public health, demographic, and pesticide usage data (1992-2022)
+- Co-authored manuscript formatted in LaTeX, currently in preprint
+- **Publication**: *The Impact of Agricultural Pesticides on Cancer Incidence in Midwest, United States* | [doi:10.1101/2025.06.30.25330578](https://doi.org/10.1101/2025.06.30.25330578)
+
+**NASA/USGS EROS Internship** (June 2025 - Present)
+- Explored dashboarding and automation solutions for 80+ Landsat satellite calibration/validation datasets
+- Created three functional dashboard prototypes using Python, HTML, and SQL
+- Executed scientific models on Landsat 8 imagery to quantify geometric uncertainty
 
 ---
 
 ### 📌 Featured Projects
 
 Check out my pinned repositories below for:
-- Undergraduate coding/analysis assignments
-- Graduate coding/analysis assignments 
-- Unforutantely at this time code for USGS/NASA projects is confidential and CANNOT be shared externally
+- **Graduate Coursework**: Biostatistics assignments featuring hypothesis testing, EDA, and health data analysis in R
+- **Undergraduate Coursework**: SAS programming, machine learning, cybersecurity policy, and database management projects
+- **Research**: Statistical modeling and data analysis for public health applications
+
+*Note: Code for USGS/NASA projects is confidential and cannot be shared externally*
 
 ---
 
 ### 📫 Let's Connect!
 
-- 📧 [Email](btn.cox@gmail.com)
+- 📧 [Email](mailto:cox00255@umn.edu)
 - 💼 [LinkedIn](https://www.linkedin.com/in/btcox)
 
 ---
