@@ -34,7 +34,7 @@ South Dakota Space Grant Consortium in partnership with USGS/KBR. inc
 
 ### 🧠 What I'm About
 
-Through rigorous coursework and a hands-on internship at the South Dakota Space Grant Consortium, I've developed a strong foundation in data analysis, database design, and software engineering. I enjoy writing clean code, asking meaningful questions from data, and communicating insights effectively.
+Through rigorous coursework and a hands-on internship at the South Dakota Space Grant Consortium / KBR Inc, I've developed a strong foundation in data analysis, database design, and software engineering. I enjoy writing code, asking meaningful questions from data, and communicating insights effectively.
 
 🔍 I'm particularly passionate about:
 - Using data driven insights to inform public health 📊  
@@ -46,9 +46,9 @@ Through rigorous coursework and a hands-on internship at the South Dakota Space 
 ### 📌 Featured Projects
 
 Check out my pinned repositories below for:
-- SDSU assignments & capstone research  
-- SQL querying over large databases  
-- Python projects with data visualization
+- Undergraduate coding/analysis assignments
+- Graduate coding/analysis assignments 
+- Unforutantely at this time code for USGS/NASA projects is confidential and CANNOT be shared externally
 
 ---
 
