@@ -30,7 +30,7 @@ NASA South Dakota Space Grant Consortium / KBR Inc. | USGS EROS CalVal Center of
 
 - **Languages**: Python, R, SQL, HTML, C/C++/C#
 - **Data Analysis**: SAS, Excel, pandas, tidyverse, ggplot2, NumPy
-- **Visualization**: ggplot2, matplotlib, seaborn
+- **Visualization**: ggplot2, matplotlib, seaborn, Plotly, Bokeh
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Specialized**: Geospatial Data Analysis, LLM/AI, Bayesian Statistics
 - **Tools**: Git, GitHub, Jupyter, LaTeX, Microsoft Azure
