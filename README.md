@@ -61,7 +61,7 @@ Through rigorous graduate and undergraduate coursework, independent research, an
 **NASA/USGS EROS Internship** (June 2025 - Present)
 - Explored dashboarding and automation solutions for 80+ Landsat satellite calibration/validation datasets
 - Created three functional dashboard prototypes using Python, HTML, and SQL
-- Executed scientific models on Landsat 8 imagery to quantify geometric uncertainty
+- Findings will be internally published in December of 2025 for USGS/NASA teams
 
 ---
 
@@ -70,7 +70,6 @@ Through rigorous graduate and undergraduate coursework, independent research, an
 Check out my pinned repositories below for:
 - **Graduate Coursework**: Biostatistics assignments featuring hypothesis testing, EDA, and health data analysis in R
 - **Undergraduate Coursework**: SAS programming, machine learning, cybersecurity policy, and database management projects
-- **Research**: Statistical modeling and data analysis for public health applications
 
 *Note: Code for USGS/NASA projects is confidential and cannot be shared externally*
 
