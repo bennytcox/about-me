@@ -32,27 +32,26 @@ Recognized for independent research on the statistical analysis of agricultural 
 
 ---
 
-## 💼 Current Positions
+## 💼 Positions Held
 
 **Graduate Research Assistant**  
 University of Minnesota – Twin Cities | Zhang Lab  
 October 2025 – Present | Remote  
 - Support data collection, cleaning, and organization of large-scale datasets for HIV modeling research  
-- Assist with data management workflows to support statistical and computational analysis  
 
 **Software Engineering Intern (Contractor)**  
 KBR Inc. | U.S. Geological Survey EROS Center  
 TSSC Calibration and Validation Center of Excellence (ECCOE)  
 Fall 2025 – Present | Remote  
-- Develop interactive dashboards using Dash and Plotly for Landsat 8 and 9 data exploration  
-- Conduct trade studies comparing dashboarding frameworks including Dash, Streamlit, Panel, Bokeh, and Plotly  
+- Develop interactive dashboards using Flask and Plotly for Landsat 8 and 9 data exploration  
+- Conduct trade studies comparing dashboarding frameworks including Dash, Streamlit, Flask, Panel, Bokeh, and Plotly  
 - Support improvements to Landsat 8 geolocation modeling uncertainty  
 - Contribute as a full-stack developer toward internal dashboard deployment planned for Spring 2026  
 
 **Software Engineering Intern**  
 NASA South Dakota Space Grant Consortium  
 USGS EROS ECCOE | Hybrid – Sioux Falls, SD  
-June 2025 – August 2025  
+Summer 2025  
 
 ---
 
@@ -80,7 +79,7 @@ Git, GitHub, Jupyter, LaTeX, Microsoft Azure
 
 ## 🧠 About Me
 
-Through accelerated undergraduate training, graduate-level coursework, and hands-on research experience with NASA and the U.S. Geological Survey, I focus on the intersection of data science, public health, and scientific computing.
+Through accelerated undergraduate training, graduate-level coursework, and hands-on research experience the U.S. Geological Survey and the Zhang Lab at UMN, I focus on the intersection of data science, public health, and scientific computing.
 
 My interests center on applying rigorous statistical methods and software engineering practices to real-world public health and environmental challenges, with an emphasis on transparency, reproducibility, and clear communication.
 
@@ -113,15 +112,6 @@ https://doi.org/10.1101/2025.06.30.25330578
 
 ---
 
-### NASA / USGS EROS Internship  
-**June 2025 – Present**
-
-- Evaluated automation and dashboarding solutions for more than 80 Landsat calibration and validation datasets  
-- Built multiple dashboard prototypes using Python, SQL, and web-based frameworks  
-- Results will support an internally published USGS and NASA trade study  
-
----
-
 ## 📌 Featured Projects
 
 Explore my pinned repositories for:
@@ -132,7 +122,7 @@ Explore my pinned repositories for:
 - **Undergraduate Coursework**  
   Data science, SAS programming, machine learning, database management, and applied statistics  
 
-> ⚠️ Note: Code for NASA and USGS projects is confidential and cannot be shared on Github unfortunately.
+> ⚠️ Note: Code for NASA and USGS projects is confidential and cannot be shared on Github unfortunately
 
 ---
 
