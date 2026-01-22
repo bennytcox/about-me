@@ -1,91 +1,152 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" width="100" alt="R Logo">
+  <!-- R language logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="90" alt="R Logo">
+
+  <!-- SQL logo -->
   <img src="https://www.lagosdataschool.com/wp-content/uploads/2023/02/Sql-training-at-ikeja-lagos-data-school.png" width="140" alt="SQL Logo">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" width="80" alt="C++ Logo">
-  <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="80" alt="Python Logo">
+
+  <!-- C++ logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="85" alt="C++ Logo">
+
+  <!-- Python logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="90" alt="Python Logo">
 </p>
 
 ---
 
-## 👋 Hi there, I'm **Benjamin Cox** (Benny/Ben)
+## 👋 Hi there, I'm **Benjamin Cox** (Benny / Ben)
 
-**Master's Student**  
-University of Minnesota - Twin Cities  
-MPH in Public Health Data Science | Expected Graduation: May 2027
+🎓 **MPH Student in Public Health Data Science**  
+University of Minnesota – Twin Cities  
+Expected Graduation: **Spring 2027**  
+GPA: **4.0 / 4.0**
 
-🎓 **Recent Graduate**  
-South Dakota State University (SDSU)  
-B.Sc. in Data Science & Mathematics | May 2025  
-📚 Minors in Statistics and Mathematics | GPA: 3.34/4.0
+🎓 **Accelerated Double Bachelor of Science Graduate**  
+South Dakota State University  
+B.S. in **Mathematics** and **Data Science** | 2023-2025
+Minors in Statistics and Mathematics  
+GPA: **3.34 / 4.0**
 
-🏆 **2025 Schultz-Werth Award Winner**  
-Recognized for independent research on the statistical analysis of agricultural pesticide effects on cancer incidence in the Midwest
-
-🛰️ **Software Engineering Intern**  
-NASA South Dakota Space Grant Consortium / KBR Inc. | USGS EROS CalVal Center of Excellence (ECCOE)
-
----
-
-### 🛠️ Skills & Technologies
-
-- **Languages**: Python, R, SQL, HTML, C/C++/C#
-- **Data Analysis**: SAS, Excel, pandas, tidyverse, ggplot2, NumPy
-- **Visualization**: ggplot2, matplotlib, seaborn, Plotly, Bokeh
-- **Databases**: PostgreSQL, MySQL, SQLite
-- **Specialized**: Geospatial Data Analysis, LLM/AI, Bayesian Statistics
-- **Tools**: Git, GitHub, Jupyter, LaTeX, Microsoft Azure
+🏆 **2025 Schultz-Werth Award Recipient**  
+Recognized for independent research on the statistical analysis of agricultural pesticide exposure and cancer incidence in the Midwest United States.
 
 ---
 
-### 🧠 What I'm About
+## 💼 Current Positions
 
-Through rigorous graduate and undergraduate coursework, independent research, and hands-on experience at NASA/USGS EROS, I've developed expertise in biostatistics, data science, and software engineering. I'm passionate about using data to address real-world public health challenges and making complex analyses accessible through clear communication.
+**Graduate Research Assistant**  
+University of Minnesota – Twin Cities | Zhang Lab  
+October 2025 – Present | Remote  
+- Support data collection, cleaning, and organization of large-scale datasets for HIV modeling research  
+- Assist with data management workflows to support statistical and computational analysis  
 
-🔍 I'm particularly passionate about:
-- Using data-driven insights to inform public health policy and research 📊  
-- Biostatistical analysis and epidemiological research 🧪  
-- Environmental health and agricultural impact studies 🌾
-- Remote sensing and geospatial analysis 🛰️
-- Making science and data more accessible 🚀
+**Software Engineering Intern (Contractor)**  
+KBR Inc. | U.S. Geological Survey EROS Center  
+TSSC Calibration and Validation Center of Excellence (ECCOE)  
+Fall 2025 – Present | Remote  
+- Develop interactive dashboards using Dash and Plotly for Landsat 8 and 9 data exploration  
+- Conduct trade studies comparing dashboarding frameworks including Dash, Streamlit, Panel, Bokeh, and Plotly  
+- Support improvements to Landsat 8 geolocation modeling uncertainty  
+- Contribute as a full-stack developer toward internal dashboard deployment planned for Spring 2026  
 
----
-
-### 🔬 Research Highlights
-
-**Undergraduate Senior Capstone Research** (December 2024 - May 2025)
-- Designed independent research project using Bayesian regression to study agricultural pesticide impact on Midwest cancer incidence
-- Analyzed 30+ years of public health, demographic, and pesticide usage data (1992-2022)
-- Co-authored manuscript formatted in LaTeX, currently in preprint
-- **Publication**: *The Impact of Agricultural Pesticides on Cancer Incidence in Midwest, United States* | [doi:10.1101/2025.06.30.25330578](https://doi.org/10.1101/2025.06.30.25330578)
-
-**NASA/USGS EROS Internship** (June 2025 - Present)
-- Explored dashboarding and automation solutions for 80+ Landsat satellite calibration/validation datasets
-- Created three functional dashboard prototypes using Python, HTML, and SQL
-- Findings will be internally published in December of 2025 for USGS/NASA teams
+**Software Engineering Intern**  
+NASA South Dakota Space Grant Consortium  
+USGS EROS ECCOE | Hybrid – Sioux Falls, SD  
+June 2025 – August 2025  
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Skills & Technologies
 
-Check out my pinned repositories below for:
-- **Graduate Coursework**: Biostatistics assignments featuring hypothesis testing, EDA, and health data analysis in R
-- **Undergraduate Coursework**: SAS programming, machine learning, cybersecurity policy, and database management projects
+**Programming Languages**  
+Python, R, SQL, HTML, C, C++, C#
 
-*Note: Code for USGS/NASA projects is confidential and cannot be shared externally*
+**Data Analysis & Statistics**  
+pandas, tidyverse, NumPy, SAS, Excel, ggplot2
+
+**Visualization**  
+Plotly, Bokeh, matplotlib, seaborn, ggplot2
+
+**Databases**  
+PostgreSQL, MySQL, SQLite
+
+**Specialized Areas**  
+Geospatial Analysis, Remote Sensing, Bayesian Statistics, Biostatistics, LLM and AI Applications
+
+**Tools & Platforms**  
+Git, GitHub, Jupyter, LaTeX, Microsoft Azure
 
 ---
 
-### 📫 Let's Connect!
+## 🧠 About Me
 
-- 📧 [Email](mailto:cox00255@umn.edu)
-- 💼 [LinkedIn](https://www.linkedin.com/in/btcox)
+Through accelerated undergraduate training, graduate-level coursework, and hands-on research experience with NASA and the U.S. Geological Survey, I focus on the intersection of data science, public health, and scientific computing.
+
+My interests center on applying rigorous statistical methods and software engineering practices to real-world public health and environmental challenges, with an emphasis on transparency, reproducibility, and clear communication.
+
+---
+
+## 🔍 Research Interests
+
+- Biostatistics and epidemiologic modeling  
+- Environmental and agricultural health impacts  
+- Public health data science and surveillance  
+- Remote sensing and geospatial analytics  
+- Bayesian modeling and uncertainty quantification  
+- Making complex data accessible and interpretable  
+
+---
+
+## 🔬 Research Highlights
+
+### Undergraduate Senior Capstone Research  
+**December 2024 – May 2025**
+
+- Designed an independent Bayesian regression study examining agricultural pesticide exposure and cancer incidence across U.S. Midwest counties  
+- Integrated over 30 years of pesticide, demographic, and cancer surveillance data (1992–2022)  
+- Implemented hierarchical and spatial modeling techniques  
+- Authored manuscript using LaTeX  
+
+**Publication:**  
+*The Impact of Agricultural Pesticides on Cancer Incidence in the Midwest, United States*  
+https://doi.org/10.1101/2025.06.30.25330578
+
+---
+
+### NASA / USGS EROS Internship  
+**June 2025 – Present**
+
+- Evaluated automation and dashboarding solutions for more than 80 Landsat calibration and validation datasets  
+- Built multiple dashboard prototypes using Python, SQL, and web-based frameworks  
+- Results will support an internally published USGS and NASA trade study  
+
+---
+
+## 📌 Featured Projects
+
+Explore my pinned repositories for:
+
+- **Graduate Coursework**  
+  Biostatistics, epidemiology, hypothesis testing, regression modeling, and health data analysis in R  
+
+- **Undergraduate Coursework**  
+  Data science, SAS programming, machine learning, database management, and applied statistics  
+
+> ⚠️ Note: Code for NASA and USGS projects is confidential and cannot be shared on Github unfortunately.
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: [cox00255@umn.edu](mailto:cox00255@umn.edu)  
+- 💼 LinkedIn: https://www.linkedin.com/in/btcox  
 
 ---
 
 <details>
   <summary>📈 GitHub Stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true" width="48%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact" width="40%">
   </p>
 </details>
